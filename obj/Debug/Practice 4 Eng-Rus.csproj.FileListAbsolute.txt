@@ -1,0 +1,12 @@
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\bin\Debug\Practice 4 Eng-Rus.exe.config
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice 4 Eng-Rus.csprojResolveAssemblyReference.cache
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice_4_Eng_Rus.Properties.Resources.resources
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice 4 Eng-Rus.csproj.GenerateResource.Cache
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\bin\Debug\Practice 4 Eng-Rus.exe
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\bin\Debug\Practice 4 Eng-Rus.pdb
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice 4 Eng-Rus.exe
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice 4 Eng-Rus.pdb
+C:\Users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice_4_Eng_Rus.Form2.resources
+C:\Users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice_4_Eng_Rus.Form1.resources
+C:\Users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice_4_Eng_Rus.Form3.resources
+C:\Users\tosha\documents\visual studio 2015\Projects\Practice 4 Eng-Rus\Practice 4 Eng-Rus\obj\Debug\Practice_4_Eng_Rus.Form4.resources

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Word>
+    <WordEng>book</WordEng>
+    <WordRus>
+      <string>книга</string>
+    </WordRus>
+    <PartOfSpeech>Noun</PartOfSpeech>
+  </Word>
+  <Word>
+    <WordEng>read</WordEng>
+    <WordRus>
+      <string>читать</string>
+    </WordRus>
+    <PartOfSpeech>Verb</PartOfSpeech>
+  </Word>
+  <Word>
+    <WordEng>beautiful</WordEng>
+    <WordRus>
+      <string>красивый</string>
+    </WordRus>
+    <PartOfSpeech>Adjective</PartOfSpeech>
+  </Word>
+  <Word>
+    <WordEng>run</WordEng>
+    <WordRus>
+      <string>бежать</string>
+      <string />
+      <string>бегать</string>
+    </WordRus>
+    <PartOfSpeech>Verb</PartOfSpeech>
+  </Word>
+</ArrayOfWord>
